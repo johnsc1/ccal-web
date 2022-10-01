@@ -6,6 +6,9 @@ https://janethaler.github.io/dsamtools/openrefine.html
 
 The OpenRefine tutorial has been included because it is an example of a website tutroial for an online tool. This differs from the content of this project as it is a walkthrough of a method, but the idea of the website being a tutorial is similar.
 
+https://docs.pytest.org/en/7.1.x/getting-started.html
+The pytest tutorial, since it is a code-based tool, is focused primarily on given code blocks for the user to enter and experience the functionality of the tool. This code block format may influence the design of the CCAL tutorial.
+
 
 # Articles
 
@@ -22,7 +25,10 @@ https://doi.org/10.1007/s11528-022-00728-7
 Selected for critical pedagogy approaches to influence the design of the website tutorial
 
 https://www.researchgate.net/publication/277908915_A_Study_of_inverted_classroom_pedagogy_in_computer_science_teaching
-Selected for understanding potential user experience scenarios in the application of the tutorial website. 
+Selected for understanding potential user experience scenarios in the application of the tutorial website.
+
+We Go Together: Situating Github in Library Science (PDF in folder)
+Includes the discussion of the CCAL application to the pandas repo
 
 # Books
 
