@@ -33,3 +33,9 @@ digital archives. The repository where the tool is maintained is Github, and the
 Although there is not one single tutorial space, there are tutorials for starting the tool, modifying it, youtube videos as documentation, and "Help Center" for members. The focus will be on these youtube videos. There are two videos which function as documentation, one specifically being labelled a reference. Having youtube videos as documentation suggests that interactivity seems to be important to this community of archivists in how they learn about software.
 
 This video and these websites have been included because they inform tutorial elements which may be important to archivists, which are some of the target users of the CCAL tutorial. The use of youtube tutorials in ArchivesSpace suggests that interactivity will be an important to factor into the tutorial, such as through Javascript.
+
+```Look for huamnities tools on github for another tutorial
+Look up scaffolding in education paper or two
+begin coding framework of the website in html and css
+
+```
