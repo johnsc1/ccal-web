@@ -27,6 +27,8 @@ Because this tutorial is geared toward users who have programming experience, it
 This website is applicable because pytest is a well-established open source project on Github, similiar to pandas where the CCAL was initially applied. To understand how users are intrduced to a programming tool, in addition to non-programming ones, help inform design choices to familiarize users new to programming/Github with how this functions without overwhelming them in the learning process.
 
 ## ArchivesSpace website and video references
+https://www.youtube.com/watch?v=C_ZCe1gYnVI
+https://www.youtube.com/watch?v=oLop1tR3xgg
 
 ArchivesSpace is an open source tool which helps support
 digital archives. The repository where the tool is maintained is Github, and there have been multiple releases since 2013 including the current release. There is a website associated with the tool, and although there is not a single clear tutorial for the tool, there are many associated videos for matienence and a "Help Center" that is available for members. Membership in their community is a way of financially supporting their work, which is a limitation often encountered in open source work.
