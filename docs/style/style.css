@@ -1,6 +1,7 @@
 html {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background: rgb(236, 236, 236, 0.836);
+  font-size: 18px;
 }
 
 h1 {
@@ -10,7 +11,7 @@ h1 {
 }
 
 h2 {
-  font-size: 23px;
+  font-size: 2px;
   font-weight: bold;
   color: rgb(0, 145, 130);
 }
@@ -34,7 +35,9 @@ p {
   border-bottom: 40px;
   border-left: 40px;
   border-right: 40px;
-  color: rgb(44, 165, 44);
-  background: rgb(102, 102, 102);
+  border-style: solid;
+  border-color: black;
+  color: rgb(29, 131, 29);
+  background: black;
 }
 
