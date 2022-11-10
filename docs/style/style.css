@@ -1,24 +1,40 @@
 html {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background: lightgray;
+  background: rgb(236, 236, 236, 0.836);
 }
 
 h1 {
   font-size: 30px;
-  font-weight: bolder
+  font-weight: bolder;
+  color: rgb(0, 97, 87);
 }
 
 h2 {
   font-size: 23px;
-  font-weight: bold
+  font-weight: bold;
+  color: rgb(0, 145, 130);
 }
 
 h3 {
   font-size: 18px;
+  color: rgb(53, 0, 247);
 }
 
 div {
-
+border-top: 10px;
+border-bottom: 10px;
+border-left: 10px;
+border-right: 10px;
+border-style: solid;
+border-color: rgba(236, 236, 236, 0.726);
 }
 
+p {
+  border-top: 40px;
+  border-bottom: 40px;
+  border-left: 40px;
+  border-right: 40px;
+  color: rgb(35, 189, 35);
+  background: black;
+}
 
