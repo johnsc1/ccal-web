@@ -3,7 +3,8 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
-#### **[Begin tutorial here!](https://johnsc1.github.io/ccal-web/)**
+#### **[Begin simple tutorial here!](https://johnsc1.github.io/ccal-web/)**
+#### **[Begin interactive tutorial here!](https://johnsc1.github.io/ccal-web/)**
 
 ## Project Overview 
 
