@@ -1,7 +1,24 @@
 html {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background: black;
+  background: lightgray;
+}
+
+h1 {
   font-size: 30px;
-  color: lightskyblue;
+  font-weight: bolder
+}
+
+h2 {
+  font-size: 23px;
   font-weight: bold
 }
+
+h3 {
+  font-size: 18px;
+}
+
+div {
+
+}
+
+
