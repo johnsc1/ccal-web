@@ -4,7 +4,7 @@
 
 
 #### **[Begin simple tutorial here!](https://johnsc1.github.io/ccal-web/)**
-#### **[Begin interactive tutorial here!](https://johnsc1.github.io/ccal-web/)**
+#### **[Begin interactive tutorial here!](https://ccalwebinteractive.netlify.app)**
 
 ## Project Overview 
 
