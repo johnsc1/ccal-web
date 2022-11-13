@@ -16,9 +16,11 @@
   weight = 10
 
 [[main]]
-  name = "Annotated Bibliography"
-  pageRef = "categories"
+  name = "Categories"
+  pageRef = "posts"
   weight = 20
+
+# footer menu not in use at this time
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
