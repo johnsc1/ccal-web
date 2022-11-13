@@ -13,14 +13,14 @@ This is a WIP project for building an introductory tutorial which illustrates th
 
 ## CCAL Definition 
 
-Community Code Archival Librarianship is defined as "a methodology of understanding who carries out
+Community Code Archival Librarianship is defined in *We Go Together: Situating Github in Library Science* as "a methodology of understanding who carries out
 the actions of both a librarian and archivist in
 cases involving software and FOSS communities.
 This term may be used to describe the collective action of multiple individuals or entities." 
 
 ## Project Narrative 
 
-This project originates from the article [We Go Together: Situating Github in Library Science](https://github.com/johnsc1/we-go-together/blob/main/SeniorThesis.pdf), which argues for how core values from Library Science and Archives are applicable to Github as a platform, and the 
+This project originates from the article *[We Go Together: Situating Github in Library Science](https://github.com/johnsc1/we-go-together/blob/main/SeniorThesis.pdf)*, which argues for how core values from Library Science and Archives are applicable to Github as a platform, and the 
 Free Open Source Software (FOSS) project communities it supports. This discussion is the capta 
 of the tutorial. Additional capta is the annotated bibliography, which has the purpose of grounding the CCAL website in user experience specific to library and information science and archives. 
 
@@ -40,10 +40,10 @@ Over each iteration of the project, the processes have changed. In the first ite
 ##### Iteration 2
 Reflecting on the second iteration, it did not go as it should have. There were tensions with time management between this and other classes, which while creating setbacks, resulted in more strength in prioritizing time for this project and was ultimately a valuable lesson for moving forward. The result of the iteration was a basic functioning website in HTML and CSS, with a few articles fully annotated. 
 
-Because the website lacked the capta from We Go Together, it was unknown if the thesi was supported as this requires both the capta of the annotated bibliography and We Go Together to draw a more clear conclusion on if the thesis is supported. 
+Because the website lacked the capta from *We Go Together*, it was unknown if the thesis was supported as this requires both the capta of the annotated bibliography and We Go Together to draw a more clear conclusion on if the thesis is supported. 
 
 ##### Iteration 3
-The third iteration process began with a push to add the We Go Together capta to the website and apply some basic CSS for readability of the site. The capta existing in its article form is more complex than the capta should be for a beginning tutorial specific to Github. Therefore, it was simplified to fit the purpose of the website. In an attempt to address the time limitations of programming from languages alone, a second website using tools was attempted and was unsuccessful, Further information can be found in the third iteration folder in reflection.md. To beter evaluate the support of the thesis, the process was pivoted to more work on the annotated bibliography. 
+The third iteration process began with a push to add the We Go Together capta to the website and apply some basic CSS for readability of the site. The capta existing in its article form is more complex than the capta should be for a beginning tutorial specific to Github. Therefore, it was simplified to fit the purpose of the website. In an attempt to address the time limitations of programming from languages alone, a second website using tools was attempted and was unsuccessful, Further discussion of this can be found in the third iteration folder in reflection.md. To beter evaluate the support of the thesis, the process was pivoted to more work on the annotated bibliography. 
 
 At the conclusion of the third iteration, the website's support of the thesis is minimal but present. The state of the website at this point is relatively plain and straightforward, much like tool documentation in programming. It is aesthetically important for the website to reflect both tool documentation from computer science and approaches from LIS/archives since the website exists in the interdisciplinary space between both disciplines. To better support the thesis, there needs to be a motion toward LIS/archives in the design. 
 
