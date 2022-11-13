@@ -18,6 +18,11 @@ the actions of both a librarian and archivist in
 cases involving software and FOSS communities.
 This term may be used to describe the collective action of multiple individuals or entities." 
 
+## CCAL Examples Repository
+
+For the purpose of showing simple examples of a Github repository, the [CCAL Examples](https://github.com/johnsc1/ccal-examples) repository was created. Screenshots of 
+this repository are used in the tutorial.
+
 ## Project Narrative 
 
 This project originates from the article *[We Go Together: Situating Github in Library Science](https://github.com/johnsc1/we-go-together/blob/main/SeniorThesis.pdf)*, which argues for how core values from Library Science and Archives are applicable to Github as a platform, and the 
