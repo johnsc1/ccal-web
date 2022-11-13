@@ -12,12 +12,12 @@
 
 [[main]]
   name = "Tutorial"
-  pageRef = "posts"
+  pageRef = "tutorial"
   weight = 10
 
 [[main]]
-  name = "Annotated Bibliography"
-  pageRef = "posts"
+  name = "Bibliography"
+  pageRef = "bibliography"
   weight = 20
 
 # footer menu not in use at this time
