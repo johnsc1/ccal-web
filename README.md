@@ -3,8 +3,8 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
-#### **[Begin simple tutorial here!](https://johnsc1.github.io/ccal-web/)**
-#### **[Begin interactive tutorial here!](https://ccalweb2.netlify.app)**
+### **[Begin tutorial here!](https://johnsc1.github.io/ccal-web/)**
+
 
 ## Overview 
 
@@ -43,7 +43,7 @@ Reflecting on the second iteration, it did not go as it should have. There were 
 Because the website lacked the capta from *We Go Together*, it was unknown if the thesis was supported as this requires both the capta of the annotated bibliography and We Go Together to draw a more clear conclusion on if the thesis is supported. 
 
 ##### Iteration 3
-The third iteration process began with a push to add the We Go Together capta to the website and apply some basic CSS for readability of the site. The capta existing in its article form is more complex than the capta should be for a beginning tutorial specific to Github. Therefore, it was simplified to fit the purpose of the website. In an attempt to address the time limitations of programming from languages alone, a second website using tools was attempted and was unsuccessful. This failure seems to be the result of documentation limitations and user error on my part. Further discussion of this experience can be found in the third iteration folder in reflection.md. To beter evaluate the support of the thesis, the process was pivoted to more work on the annotated bibliography. 
+The third iteration process began with a push to add the We Go Together capta to the website and apply some basic CSS for readability of the site. The capta existing in its article form is more complex than the capta should be for a beginning tutorial specific to Github. Therefore, it was simplified to fit the purpose of the website. In an attempt to address the time limitations of programming from languages alone, a second website using tools was attempted and was unsuccessful. This failure seems to be the result of documentation limitations and user error on my part. Further discussion of this experience can be found in the third iteration folder in iteration-3-narrative.md. To beter evaluate the support of the thesis, the process was pivoted to more work on the annotated bibliography. 
 
 At the conclusion of the third iteration, the website's support of the thesis is minimal but present. The state of the website at this point is relatively plain and straightforward, much like tool documentation in programming. It is aesthetically important for the website to reflect both tool documentation from computer science and approaches from LIS/archives since the website exists in the interdisciplinary space between both disciplines. To better support the thesis, there needs to be a motion toward LIS/archives in the design. 
 
