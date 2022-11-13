@@ -47,5 +47,15 @@ The third iteration process began with a push to add the We Go Together capta to
 
 At the conclusion of the third iteration, the website's support of the thesis is minimal but present. The state of the website at this point is relatively plain and straightforward, much like tool documentation in programming. It is aesthetically important for the website to reflect both tool documentation from computer science and approaches from LIS/archives since the website exists in the interdisciplinary space between both disciplines. To better support the thesis, there needs to be a motion toward LIS/archives in the design. 
 
+**For this iteration TODO: 1. add more to annotated bib, 2. add screenshots of examples**
+
 ##### Iteration 4
-At this time, the project is in its third iteration. Information on he fourth iteration is forthcoming. 
+At this time, the project is in its third iteration. Information on he fourth iteration is forthcoming. At this time, this section is focused on outlining some goals. 
+
+If time constraints and IRB guidelines allow, it would be helpful to get feedback on user experince with the website from an LIS professional
+
+Further expansion of the annotated bibliography and subsequent changes to the CSS design of the website as a result. 
+
+Inclusion of a video walkthrough of the website posted to youtube and linked in the wbesite. Wakthrough should show screen recording of the website itself and screen recording of a github repository which shows examples of the 
+
+Add links to a github repository for each step of the tutorial which go to real examples of the CCAL method in pandas. If not, discuss why this immersion might be too much for a beginning tutorial 
