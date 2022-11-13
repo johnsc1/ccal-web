@@ -8,12 +8,12 @@ rtl = false
 title = "Community Code Archival Librarianship"
 # logo = "img/logo.jpg"
 description = "Understading Github as a library and archive."
-# copyright = GPL-3.0 License 
+copyright = GPL-3.0 License 
 
 dateFormat = "2 January 2006"
 
 [author]
- # name = "Claire Johns" 
+ name = "Claire Johns" 
  # image = "img/author.jpg"
  # headline = "I'm only human"
  # bio = "MLIS student exploring the field of UX."
