@@ -16,7 +16,7 @@
   weight = 10
 
 [[main]]
-  name = "Categories"
+  name = "Annotated Bibliography"
   pageRef = "posts"
   weight = 20
 
