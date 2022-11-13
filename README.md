@@ -29,3 +29,23 @@ of the tutorial. Additional capta is the annotated bibliography, which has the p
 At it's core, this project is a website tutorial on understanding Github, grounded in user experience specific to library and information science and archives. 
 
 From personal experience in learning how to code and understand essential related systems such as Github, and witnessing my colleagues in undergraduate and graduate coursework learn this, beginning to understand a massive platform such as Github can be a significant learning curve. Oftentimes, computing is presented from a purely technical background, which is a perspective that may not tie into one's prior educational experience in any way. The CCAL website takes in the capta from We Go Together and uses it's existing context in LIS and archives, combined with the annotated bibliography's grounding in user experience, to attempt to use LIS context to provide an approachable, user-friendly guide to beginning to understand Github. 
+
+#### Progression Summary 
+
+Iteration-specific progression can be found in the Iteration folders. 
+
+##### Iteration 1
+Over each iteration of the project, the processes have changed. In the first iteration, there was more focus on identifying the capta of the project itself. This began with the integration discussions of LIS and Github in We Go Together, and extended to the annotated bibliography to ground the website in UX. Capta was identified for beginning to do the annotated bibliography, and some progress was made on the annotated bibliography.
+
+##### Iteration 2
+Reflecting on the second iteration, it did not go as it should have. There were tensions with time management between this and other classes, which while creating setbacks, resulted in more strength in prioritizing time for this project and was ultimately a valuable lesson for moving forward. The result of the iteration was a basic functioning website in HTML and CSS, with a few articles fully annotated. 
+
+Because the website lacked the capta from We Go Together, it was unknown if the thesi was supported as this requires both the capta of the annotated bibliography and We Go Together to draw a more clear conclusion on if the thesis is supported. 
+
+##### Iteration 3
+The third iteration process began with a push to add the We Go Together capta to the website and apply some basic CSS for readability of the site. The capta existing in its article form is more complex than the capta should be for a beginning tutorial specific to Github. Therefore, it was simplified to fit the purpose of the website. In an attempt to address the time limitations of programming from languages alone, a second website using tools was attempted and was unsuccessful, Further information can be found in the third iteration folder in reflection.md. To beter evaluate the support of the thesis, the process was pivoted to more work on the annotated bibliography. 
+
+At the conclusion of the third iteration, the website's support of the thesis is minimal but present. The state of the website at this point is relatively plain and straightforward, much like tool documentation in programming. It is aesthetically important for the website to reflect both tool documentation from computer science and approaches from LIS/archives since the website exists in the interdisciplinary space between both disciplines. To better support the thesis, there needs to be a motion toward LIS/archives in the design. 
+
+##### Iteration 4
+At this time, the project is in its third iteration. Information on he fourth iteration is forthcoming. 
