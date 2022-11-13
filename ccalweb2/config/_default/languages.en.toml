@@ -5,21 +5,21 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Community Code Acrhival Librariansip"
+title = "Community Code Archival Librarianship"
 # logo = "img/logo.jpg"
-# description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
+description = "Understading Github as a library and archive."
+copyright = GPL-3.0 License 
 
 dateFormat = "2 January 2006"
 
 [author]
- # name = "Community Code Archival Librarian" 
+ name = "Claire Johns" 
  # image = "img/author.jpg"
  # headline = "I'm only human"
- bio = "A little bit about you"
+ bio = "MLIS student exploring the field of UX."
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
-  #   { link = "https://link-to-some-website.com/" },
+      { link = "https://clairejohns.netlify.app/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
@@ -30,7 +30,7 @@ dateFormat = "2 January 2006"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+      { github = "https://github.com/johnsc1/ccal-web" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
