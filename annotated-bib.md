@@ -9,7 +9,9 @@ MLA annotated bibliographies include "a summary, an evaluation of the text,
 and a reflection on its applicability to his/her own research". The justification
 conclusing each citation situates the source in this project.
 
-## OpenRefine Tutorial: https://janethaler.github.io/dsamtools/openrefine.html
+## OpenRefine Tutorial: 
+https://janethaler.github.io/dsamtools/openrefine.html
+
 This is a website released through Github Pages that gives an overview of
 the tool OpenRefine, which supports data preprocessing without the need
 for computer programming. openrefine takes in many different file types,
@@ -43,10 +45,39 @@ This article researches how core values from Gorman's Core Values for Libraries 
 
 The CCAL website project is based off this article, with the goal of providing a more practical introduction to these concepts. The CCAL website moves away from intense scholarly discussion and toward a more accessible format for learning this method of approaching a Github repository.
 
+## Informatics of the Oppressed
+
+https://logicmag.io/care/informatics-of-the-oppressed/
+
+## Humanities Approaches to Graphical Display
+
+http://www.digitalhumanities.org//dhq/vol/5/1/000091/000091.html
+
+
+## Appealing to Your Better Judgement: A Call for Database Criticism 
+
+https://electronicbookreview.com/essay/appealing-to-your-better-judgement-a-call-for-database-criticism/
+
+
+## Adopting Feminist Pedagogy in Computer Science Education to Empower Underrepresented Populations: A Critical Review
+
+https://link.springer.com/article/10.1007/s11528-022-00728-7
+
+## A study of inverted classroom pedagogy in computer science teaching
+
+
+https://www.researchgate.net/publication/277908915_A_Study_of_inverted_classroom_pedagogy_in_computer_science_teaching
+
+
+
+# Summary of Considerations 
+
+The annotated bibliography surfaces some important considerations for the design and 
+user experience of the CCAL website. 
+
 ```
 Notes for further work
 Look for huamnities tools on github for another tutorial
 Look up scaffolding in education paper or two
-begin coding framework of the website in html and css
 
 ```
