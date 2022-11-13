@@ -36,7 +36,16 @@ Although there is not one single tutorial space, there are tutorials for startin
 
 This video and these websites have been included because they inform tutorial elements which may be important to archivists, which are some of the target users of the CCAL tutorial. The use of youtube tutorials in ArchivesSpace suggests that interactivity will be an important to factor into the tutorial, such as through Javascript.
 
-```Look for huamnities tools on github for another tutorial
+## We Go Together: Situating Github in Library Science
+https://github.com/johnsc1/we-go-together/blob/main/SeniorThesis.pdf
+
+This article researches how core values from Gorman's Core Values for Libraries and actions of librarians and the SAA core values for archivists apply to Github repositories. This application is done through detaild discussion of their application through each tab of the code repository in terms of the functionality of Github itself. 
+
+The CCAL website project is based off this article, with the goal of providing a more practical introduction to these concepts. The CCAL website moves away from intense scholarly discussion and toward a more accessible format for learning this method of approaching a Github repository.
+
+```
+Notes for further work
+Look for huamnities tools on github for another tutorial
 Look up scaffolding in education paper or two
 begin coding framework of the website in html and css
 
