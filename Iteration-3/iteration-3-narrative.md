@@ -34,8 +34,14 @@ The thesis for this project is creating a tutorial for an LIS approach to Github
 focus on LIS and archives professionals and students as the intended user and having the design
 of the website center around user experience specific to them. 
 
-The design of this website is meant to exist in the space between software documentation, documentation for beginners without programming experience, and knowledge of LIS and archives. Evaluating if the thesis is supported at the conclusion of this third iteration is done by referring to the annotated bibliography and evaluating if the recommendation which come out 
-of the annotated bibliography are present in the website. 
+The design of this website is meant to exist in the space between software documentation, documentation for beginners without programming experience, and knowledge of LIS and archives. Evaluating if the thesis is supported at the conclusion of this third iteration is done by referring to the annotated bibliography and evaluating it based on findings from this. 
 
-In conclusion, the thesis is supported but this support could be increased over the course of the foruth iteration. 
+The website is beginning to include screenshots, at this time only in certain parts of the code tab section. The inclusion of screenshots supports a good user experience, but this could be further enhanced by adding more screenshots for other sections, especially larger ones with 
+many parts like Issues and Pull Requests. The CCAL website also links to an example repository with simple examples and limited programming -specific language for beginner-friendliness. This example repository is where the screenshots in the tutorial are from. 
+
+A recommendation out of the annotated bibliography is an accompanying video and/or javascript interactivity. At this time, these have not been included and would be a good candidate as an archives project referenced in the annotated bibliography includes multiple user guide videos. 
+
+Referring back to the idea of the thesis existing in the space between software documentation and LIS/archives work, this leads to the need to strike a balance in design between aesthetically pleasing design and the straightforwardness of software documentation, such as plain, organized design and code blocks. Right now, the levels of organization and code blocks are present, but the values of aesthetics is lacking. The balance leans more toward software, and while this does support the thesis, it could be improved by moving toward more aesthetic design with CSS for the final iteration 
+
+In conclusion, the thesis is supported to some extent,  but this support could be increased over the course of the foruth iteration by adding more screenshots, considering a video walkthrough/javascript interactivity, expanding the css design for better aesthetics, 
 
