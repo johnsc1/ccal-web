@@ -30,11 +30,12 @@ Ultimately due to time constraints, I decided to move on from the website at thi
 
 ### Thesis Reflections 
 
-return to thesis 
+The thesis for this project is creating a tutorial for an LIS approach to Github which 
+focus on LIS and archives professionals and students as the intended user and having the design
+of the website center around user experience specific to them. 
 
-provide evidence of how or how not thesis is supported by this iteration 
+The design of this website is meant to exist in the space between software documentation, documentation for beginners without programming experience, and knowledge of LIS and archives. Evaluating if the thesis is supported at the conclusion of this third iteration is done by referring to the annotated bibliography and evaluating if the recommendation which come out 
+of the annotated bibliography are present in the website. 
 
-clear conclusion - I am still not succeeding in 
-supporting my thesis, and here is a detailed explication of why
-
+In conclusion, the thesis is supported but this support could be increased over the course of the foruth iteration. 
 

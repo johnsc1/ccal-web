@@ -7,13 +7,13 @@ html {
 h1 {
   font-size: 30px;
   font-weight: bolder;
-  color: rgb(0, 97, 87);
+  color: rgb(0, 39, 97);
 }
 
 h2 {
   font-size: 20px;
   font-weight: bold;
-  color: rgb(0, 145, 130);
+  color: rgb(0, 75, 145);
 }
 
 h3 {
@@ -37,7 +37,7 @@ p {
   border-right: 40px;
   border-style: solid;
   border-color: black;
-  color: rgb(29, 131, 29);
+  color: rgb(29, 167, 29);
   background: black;
 }
 
