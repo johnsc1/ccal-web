@@ -5,6 +5,9 @@
 
 ### **[Begin tutorial here!](https://johnsc1.github.io/ccal-web/)**
 
+[Example Repository (used for screenshots in tutorial)](https://github.com/johnsc1/ccal-examples)
+
+[Sandbox Repository (for interactive learning)](https://github.com/johnsc1/ccal-sandbox)
 
 ## Overview 
 
