@@ -21,6 +21,27 @@ h3 {
   color: rgb(53, 0, 247);
 }
 
+.header {
+  border: 10px;
+  border-style: double;
+
+}
+
+.intro {
+  border: 10px;
+  border-style: solid;
+}
+
+.tab {
+  border: 10px;
+  border-style: hidden;
+}
+
+.footer {
+  border: 10px;
+  border-style: double;
+}
+/*
 div {
 border-top: 10px;
 border-bottom: 10px;
@@ -29,6 +50,7 @@ border-right: 10px;
 border-style: solid;
 border-color: rgb(236, 236, 236, 0.726);
 }
+*/
 
 /* p is used for code blocks in tutorial*/
 p {
