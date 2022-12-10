@@ -11,7 +11,7 @@
 
 ## Overview 
 
-This is a WIP project for building an introductory tutorial which illustrates the practical application of Community Code Archival Librarianship, a method of approaching a Github repository, for educational purposes. The tutorial will be in the form of an interactive website, and include an annotated bibliography of supporting capta to provide an access point for research in the digital humanities. 
+This is a project for building an introductory tutorial which illustrates the practical application of Community Code Archival Librarianship, a method of approaching a Github repository, for educational purposes. The tutorial will be in the form of an interactive website, and include an annotated bibliography of supporting capta to provide an access point for research in the digital humanities. 
 
 
 ## CCAL Definition 
