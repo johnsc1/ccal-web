@@ -1,23 +1,23 @@
 html {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background: rgb(236, 236, 236, 0.836);
-  font-size: 18px;
+  font-size: 22px;
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 45px;
   font-weight: bolder;
   color: rgb(0, 39, 97);
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 40px;
   font-weight: bold;
   color: rgb(0, 75, 145);
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 34px;
   color: rgb(53, 0, 247);
 }
 
@@ -30,6 +30,7 @@ border-style: solid;
 border-color: rgb(236, 236, 236, 0.726);
 }
 
+/* p is used for code blocks in tutorial*/
 p {
   border-top: 40px;
   border-bottom: 40px;
