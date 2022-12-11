@@ -7,18 +7,19 @@ html {
 
 h1 {
   font-size: 45px;
-  font-weight: bolder;
+  font-weight:900;
   color: rgb(0, 39, 97);
 }
 
 h2 {
   font-size: 40px;
-  font-weight: bold;
+  font-weight:  500;
   color: rgb(0, 75, 145);
 }
 
 h3 {
   font-size: 34px;
+  font-weight:200;
   color: rgb(53, 0, 247);
 }
 
@@ -28,7 +29,7 @@ img {
   margin-right: auto;
   display: block;
   width: 50%;
-  height: 70%
+  height: 70%;
   padding: 30px;
   margin-top: 30px;
   margin-bottom: 30px;
@@ -72,6 +73,10 @@ img {
   margin-left: 20px;
   margin-right: 20px;
   padding: 30px;
+}
+
+.link {
+  font-weight: bold;
 }
 /*
 div {
