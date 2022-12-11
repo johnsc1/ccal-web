@@ -85,17 +85,6 @@ img {
   padding-right:100px;
 }
 
-/*
-div {
-border-top: 10px;
-border-bottom: 10px;
-border-left: 10px;
-border-right: 10px;
-border-style: solid;
-border-color: rgb(236, 236, 236, 0.726);
-}
-*/
-
 /* p is used for code blocks in tutorial*/
 p {
   border-top: 40px;
@@ -107,5 +96,7 @@ p {
   color: rgb(29, 167, 29);
   background: black;
   text-align: left;
+  margin-left: 80px;
+  margin-right:80px;
 }
 
