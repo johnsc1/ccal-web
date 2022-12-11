@@ -26,7 +26,8 @@ img {
   border-radius 8px;
   margin-left: auto;
   margin-right: auto;
-  position: relative;
+  display: block;
+  width: 90%;
 }
 
 .header {
