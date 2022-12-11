@@ -23,16 +23,6 @@ html {
     color: rgb(53, 0, 247);
   }
   
-  img {
-    border-radius: 8px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    width: 70%;
-    padding: 30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-  }
   
   .header {
     border: 10px;
@@ -85,17 +75,4 @@ html {
     padding-right:150px;
   }
   
-  /* p is used for code blocks in tutorial*/
-  p {
-    border-top: 40px;
-    border-bottom: 40px;
-    border-left: 40px;
-    border-right: 40px;
-    border-style: solid;
-    border-color: black;
-    color: rgb(29, 167, 29);
-    background: black;
-    text-align: left;
-    margin-left: 150px;
-    margin-right: 150px;
-  }
+
