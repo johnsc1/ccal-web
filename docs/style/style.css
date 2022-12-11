@@ -28,6 +28,7 @@ img {
   margin-right: auto;
   display: block;
   width: 90%;
+  padding: 30px;
 }
 
 .header {
@@ -47,6 +48,7 @@ img {
   margin-top: 30px;
   margin-left: 40px;
   margin-right: 40px;
+  padding: 30px;
 }
 
 .tab {
@@ -56,6 +58,7 @@ img {
   margin-top: 30px;
   margin-left: 40px;
   margin-right: 40px;
+  margin-bottom: 30px;
 }
 
 .footer {
