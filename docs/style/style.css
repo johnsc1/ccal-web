@@ -79,6 +79,12 @@ img {
   color:blue;
 
 }
+
+.text {
+  padding-left: 80px;
+  padding-right:80px;
+}
+
 /*
 div {
 border-top: 10px;
