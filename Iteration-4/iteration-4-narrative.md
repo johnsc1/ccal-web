@@ -29,15 +29,19 @@ iterations of the course, and I felt the structure of the iterations allowed me 
 ### 2. What did this course demonstrate to you? What were the joys and the frustrations? Did you succeed in learning what you came here to learn? Why or why not? What things did you learn that you did not expect to learn? 
 
 This course demonstrated to me a different view of technical systems which I have been seeking since I started programming as an undergrad. I have been seeking an environment where I am 
-able to both work with the technical systems I enjoy working with and also learn to understand them beyond that, and I think the mindfull process of this course helped me begin to develop 
-a new approach. This was not an easy process, and I still found and find myself being more 
-focused on efficiency and less on the process itself 
+able to both work with the technical systems I enjoy working with and also learn to understand them beyond that, espceially with regards to their consequinces, and I feel I have succeeded in developing that understanding in this course through our readings and seminar discussions.  
 
-### How did the term-long feedback process affect your work? 
+This was not an easy process, and I still found and find myself being more 
+focused on efficiency and less on the process itself. I did feel frustrated when I was resorting back to an efficiency mindset in my work and beng focused on major goals instead of a process. Breaking away from that mindset I developed in undergrad was frustrating in the moment, but I feel joy in having a new approach now. 
+
+### 3. How did the term-long feedback process affect your work? 
+
+At the conclusion of each iteration, before beginning to work on the next, I would take 
+in the feedback and decide where I would begin working for the next iteration. I allowed the feedback to guide the direction of my work and help ground each beginning of an iteration since I sometimes struggled with where to begin. Coming from computer science, I still have the tendancy to focus more than necessary on tecnical development, which would lead to me not considering the users. I found the long-term feedback continuously helped me return to considering users and refining my idea of the user of this tutorial. 
 
 ### Concluding this Project
 
-
+Right now the tutorial website is in a good place, though there is room for developing the design of the website. The annotated bibliography could benefit from further work before the final deadline. 
 
 ### Resources Consulted 
 
