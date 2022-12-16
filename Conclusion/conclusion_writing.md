@@ -1,10 +1,8 @@
 This project exists in the space between LIS and Computer Science, and
 between two different approaches to the technical side of
 information systems. The professions within Computer Science value efficiency
-and systems with standardized processes which handle information storage and project collaboration
-complete the action of this value. This mode of work differs in LIS, where process can differ by the individual
-and the focus their work often centers around process, such as making preservation decisions, rather
-than automating this process.
+and have systems with standardized processes which handle information storage and project collaboration complete the action of this value. This mode of work differs in LIS, where process can differ by the individual
+and the focus their work often centers around process, such as making preservation decisions, rather than automating those processes.
 
 Working with information systems has become a common task in LIS
 with the advancement of technology. Most LIS program cirriculum has been updated
@@ -23,4 +21,4 @@ on their own accord the affordances and risks of software.
 This tutorial website attempts to communicate the functionality of Github,
 a massive database of software, within the context of digital LIS work. It
 attempts to communicate these systems to an appropriate technical degree for
-a beginning user 
+a beginning user. 
