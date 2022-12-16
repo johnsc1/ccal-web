@@ -62,7 +62,7 @@ including complex technical terms which a beginner user may not understand. This
 
 To allow a space for interactive learning of understanding Github as a library, the [sandox repository](https://github.com/johnsc1/ccal-sandbox) was created. Sandbox repositories are commonly used in software to allow new users to experiment with the functionality of a tool before formally using it. This sandbox space protects the actual code from being broken, and in this case, preserves the examples repository for best readability. 
 
-## Future Considerations 
+## Future Considerations
 
 #### Potential Developments 
 
@@ -73,9 +73,15 @@ project. Some idea are as follows:
 * imbedding GIFs or videos of use of each tab on Github into the tutorial webpage 
 * creating a video walkthrough which is either imbedded in the website or links to a video platform ex. vimeo, youtube
 
-#### Project Endings
+#### Project Endings 
 
-Digital preservation of this project has been considered in terms of link this resource. 
+In accordance with recommendations on project endings, the tutorial website 
+will remain in HTML/CSS, and future additions for interactivity should use 
+plain Javascript instead of Javascript packages. This will support the digital 
+preservation of the website, even if it is no longer maintained after a certain point. 
+
+As of December 2022, the website and this repository remain maintained.
+
 
 
 
