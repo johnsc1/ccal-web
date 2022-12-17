@@ -49,7 +49,6 @@ attempts to communicate these systems to an appropriate technical degree for
 a beginning user. 
 
 
-
 ## Associated Resources 
 
 #### CCAL Examples Repository
@@ -75,7 +74,7 @@ project. Some idea are as follows:
 
 #### Project Endings 
 
-In accordance with recommendations on project endings, the tutorial website 
+In accordance with recommendations on in [The Endings Project](https://endings.uvic.ca/), the tutorial website 
 will remain in HTML/CSS, and future additions for interactivity should use 
 plain Javascript instead of Javascript packages. This will support the digital 
 preservation of the website, even if it is no longer maintained after a certain point. 

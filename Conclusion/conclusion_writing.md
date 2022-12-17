@@ -1,7 +1,7 @@
 This project exists in the space between Library and Information Science (LIS) and Computer Science (CS), and therefore 
 between two different approaches to the technical side of
 information systems. CS is an academic discipline focused on the technical (hardware and software) of the computer. The professions within CS value efficiency
-and have systems with standardized processes which handle information storage and project collaboration complete the action of this value. LIS The mode of work in LIS differs, where process can differ by the individual
+and have systems with standardized processes which handle information storage and project collaboration complete the action of this value. LIS is a professional discipline focused on information systems and the processes within them. The mode of work in LIS differs, where process can differ by the individual
 and the focus their work often centers around process, such as making preservation decisions, rather than automating those processes.
 
 Working with information systems has become a common task in LIS
