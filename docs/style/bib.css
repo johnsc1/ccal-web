@@ -64,5 +64,12 @@ html {
     padding-left: 150px;
     padding-right:150px;
   }
+
+  .citation {
+    padding-left: 150px;
+    padding-right:150px;
+    color:black;
+    font-weight: 900;
+  }
   
 
